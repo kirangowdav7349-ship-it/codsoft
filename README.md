@@ -94,7 +94,7 @@ All changes are automatically saved to `contacts.json` in the same directory.
 
 **Your Name**
 - CodSoft Internship — Python Programming
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: https://github.com/kirangowdav7349-ship-it
 
 ---
 
